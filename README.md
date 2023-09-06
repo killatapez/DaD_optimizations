@@ -1,10 +1,10 @@
 # Dark and Darker Optimization Guide Files and Installation Guide
 
 ## Path for Engine.ini
-C:\Users\%USERNAME%\AppData\Local\DungeonCrawler\Saved\Config\Windows\Engine.ini
+C:\Users\\%USERNAME%\AppData\Local\DungeonCrawler\Saved\Config\Windows\Engine.ini
 
 ## Path for GameUserSettings.ini
-C:\Users\%USERNAME%\AppData\Local\DungeonCrawler\Saved\Config\Windows\GameUserSettings.ini
+C:\Users\\%USERNAME%\AppData\Local\DungeonCrawler\Saved\Config\Windows\GameUserSettings.ini
 
 ## Description
 
